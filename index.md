@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<!--
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
@@ -48,13 +48,13 @@ Solo supports lists, `<hr>`s, `<table>`s,
 
 ### Keep Solo up to date
 
-Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
+Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date. -->
 
 ## Author
 
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
+([Twitter](http://twitter.com/Jess_Durk_)/[email](mailto:j.durk@qmul.ac.uk)).
 
-![Shu Uesugi](https://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
+![Jessie Durk][img/profile.jpg]
 
 ### License
 

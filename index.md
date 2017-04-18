@@ -54,7 +54,7 @@ Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fo
 
 ([Twitter](http://twitter.com/Jess_Durk_)/[email](mailto:j.durk@qmul.ac.uk)).
 
-![Jessie Durk][img/profile.jpg]
+![Jessie Durk](https://raw.githubusercontent.com/tomjf/solo/gh-pages/img/profile.jpg)
 
 ### License
 
